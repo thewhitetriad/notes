@@ -11,9 +11,11 @@
             "id": "88f1b037887932cb",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.5"
+                "file": "Math/Expressions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Math/Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Math/Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Math/Expressions.md"
+              }
             }
           }
         ]
@@ -141,5 +147,8 @@
     }
   },
   "active": "88f1b037887932cb",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Math/Expressions.md",
+    "Math"
+  ]
 }
